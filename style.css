@@ -7,13 +7,19 @@
 }
 
 body {
-  background: url('francesco-ungaro-LKHcK4eRh0g-unsplash.jpg') no-repeat center center fixed;
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  color: white;
+  text-align: center;
+  background-image: url('background.jpg'); /* Asegúrate que el nombre coincida */
   background-size: cover;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
+
 
 .card {
   background-color: rgba(0, 0, 0, 0.7);
