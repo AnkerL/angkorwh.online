@@ -12,7 +12,7 @@ body {
   font-family: 'Arial', sans-serif;
   color: white;
   text-align: center;
-  background-image: url('background.jpg'); /* Asegúrate que el nombre coincida */
+  background-image: url(francesco-ungaro-LKHcK4eRh0g-unsplash); /* Asegúrate que el nombre coincida */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
